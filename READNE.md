@@ -1,1 +1,0 @@
-# Repositirio utilizado para criar instancias EC2 na aws usando scripts para automatizar na linguagem de programção Python.
